@@ -1,0 +1,6 @@
+name: Michael Parque
+markdown: redcarpet
+highlighter: pygments
+permalink: /projects/:year/:month/:day/:title
+sass:
+    sass_dir: /_sass
